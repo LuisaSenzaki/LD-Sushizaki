@@ -20,7 +20,7 @@
   }
 
   .botao {
-    margin-top: 40px;
+    margin-top: 60px;
   }
 
   .img {
@@ -30,7 +30,8 @@
     width: 350px;
   }
   .hero-second {
-    margin: 0 auto;
+    margin-top: 50px;
+    margin: auto;
     flex-direction: column;
     gap: 3px;
   }
