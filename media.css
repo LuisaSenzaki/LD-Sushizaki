@@ -1,0 +1,63 @@
+@media screen and (max-width: 760px) {
+  .home {
+    flex-direction: column;
+    gap: 10px;
+    align-self: center;
+  }
+  .hero {
+    margin: 0 auto;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .hero-conteudo {
+    margin-top: 50px;
+    margin-left: auto;
+  }
+
+  h2 {
+    margin-top: 50px;
+  }
+
+  .botao {
+    margin-top: 30px;
+  }
+
+  .img {
+    margin-top: 0;
+    margin-left: auto;
+    align-self: center;
+    width: 350px;
+  }
+  .hero-second {
+    margin: 0 auto;
+    flex-direction: column;
+    gap: 3px;
+  }
+
+  .titulo {
+    margin: auto;
+    margin-top: 65px;
+    align-self: center;
+  }
+
+  .pratos {
+    margin: auto;
+    margin-left: auto;
+    align-self: center;
+    width: 350px;
+    margin-top: 30px;
+  }
+
+  .sobre-nos {
+    margin: auto;
+    font-size: 15px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  .home-dois {
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+}
