@@ -16,7 +16,7 @@ Projeto de uma landing page de um restaurante de comida japonesa fictício.
 <br>
 
 <p align="center">
-  <img alt="Projeto LD-sushizaki" src="./assets/LD-SUSHIZAKI-readme.png" width="100%">
+  <img alt="Projeto LD-sushizaki" src="./assets/LD-SUSHIZAKI-readme.png">
 </p>
 
 ## 🚀 Tecnologias
